@@ -6,7 +6,7 @@ class HomeScreen extends StatelessWidget {
     return Container(
       alignment: Alignment.center,
       color: Colors.deepOrangeAccent,
-      child: Text("Pizza", textDirection: TextDirection.ltr),
+      child: Text('Pizza', textDirection: TextDirection.ltr),
     );
   }
 }
